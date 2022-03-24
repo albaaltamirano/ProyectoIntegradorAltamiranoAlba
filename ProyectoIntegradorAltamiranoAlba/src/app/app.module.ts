@@ -8,7 +8,10 @@ import { AcercaDeComponent } from './componentes/acerca-de/acerca-de.component';
 import { ExperienciaComponent } from './componentes/experiencia/experiencia.component';
 import { EducacionComponent } from './componentes/educacion/educacion.component';
 import  {  NgCircleProgressModule  }  from  'ng-circle-progress';
-import { SkillsComponent } from './componentes/skills/skills.component' ;
+import { SkillsComponent } from './componentes/skills/skills.component';
+import { ProyectosComponent } from './componentes/proyectos/proyectos.component';
+import { FooterComponent } from './componentes/footer/footer.component';
+
 
 
 @NgModule({
@@ -19,6 +22,9 @@ import { SkillsComponent } from './componentes/skills/skills.component' ;
     ExperienciaComponent,
     EducacionComponent,
     SkillsComponent,
+    ProyectosComponent,
+    FooterComponent
+   
   
   ],
   imports: [
