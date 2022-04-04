@@ -36,8 +36,6 @@ font-family: 'Courier New', Courier, monospace;
 }
 #telefono{
     
-    float: left;
-    vertical-align: middle;
      width: 40px; 
      height: 20px;
      color: #64ffda;
@@ -47,20 +45,19 @@ font-family: 'Courier New', Courier, monospace;
 }
 #correo{
     
-    float: left;
-    vertical-align: middle;
      width: 40px; 
      height: 20px;
      color: #64ffda;
     
     }
 #texto{
-    text-align: center;
+    display: inline-block;
+    vertical-align: top;
     font-size: 15px;
     color: #64ffda;
 }
 #contacto{
-    text-align: center;
+   
     color: #8892b0;
     font-size:20px;
     font-family: 'Courier New', Courier, monospace;
