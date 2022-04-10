@@ -32,7 +32,7 @@ line-height: 1.1;
     color: #64ffda ;
     text-align: left ;
     margin-top: 85px;
-    font-family: 'Dela Gothic One', cursiva;
+    
     font-size: 18px;
     letter-spacing: 0px;
     word-spacing: 0px;
@@ -78,6 +78,7 @@ h1{
     display: inline;
     color: #ccd6f6;
     margin-left: 100px;
+    font-family: 'Dela Gothic One';
     
     
 }
@@ -85,4 +86,5 @@ h1{
 #sobremi{
     margin-left: 100px;
     padding: 25px;
+    font-family:"SF Mono","Fira Code","Fira Mono","Roboto Mono",monospace; 
 }

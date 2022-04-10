@@ -9,12 +9,20 @@ h2, h3{
     font-size: x-large;
     display: inline;
     text-align:right;
+    color: #64ffda ;
     
     
+    
+    
+}
+p{
+    font-family:"SF Mono","Fira Code","Fira Mono","Roboto Mono",monospace; 
 }
 h1{
     display: inline;
     color: #ccd6f6;  
+    font-family: 'Dela Gothic One';
+    height: 85px;
    
 }
 #unl{
