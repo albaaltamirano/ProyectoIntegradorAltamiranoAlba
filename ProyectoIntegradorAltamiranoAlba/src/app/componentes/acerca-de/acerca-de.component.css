@@ -60,13 +60,14 @@ line-height: 1.1;
     width: 350px; 
     -webkit-box-shadow: 2px 2px 10px 2px #000000; 
     box-shadow: 2px 2px 10px 2px #000000;
-    float: left;
+    float: right;
     vertical-align: middle;
-    padding: 5px;
-    margin-left: 30px; 
-    margin-right: 65px; 
-    margin-top: 0px; 
-    margin-bottom: 100px;
+    padding: 0.5px;
+    margin-left: 5%; 
+    margin-right: 25%; 
+    margin-top: 10%; 
+    margin-bottom: 50px;
+    opacity: 0.7;
       
 }
 
@@ -74,17 +75,19 @@ line-height: 1.1;
 
 
 h1{
-    padding: auto;
-    display: inline;
-    color: #ccd6f6;
-    margin-left: 100px;
-    font-family: 'Dela Gothic One';
     
+    
+    color: #ccd6f6;
+    margin-left: 20%;
+    font-family: 'Dela Gothic One';
+    margin-top: 10%;
+   
     
 }
 
 #sobremi{
-    margin-left: 100px;
-    padding: 25px;
+    margin-left: 20%;
+    padding:25px;
     font-family:"SF Mono","Fira Code","Fira Mono","Roboto Mono",monospace; 
+    
 }
