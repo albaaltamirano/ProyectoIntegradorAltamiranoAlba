@@ -1,0 +1,22 @@
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background-color: #1111 ;
+}
+*{
+    background-color:#8892b0  ;
+}
+#Twitter{
+       margin-left: 10px;
+       margin-top: 10px;
+       margin-bottom: 10px;
+       border: 0pt;
+}
+#inicio{
+    border: 0pt;
+}
+#facebook{
+    border:0pt;
+}
